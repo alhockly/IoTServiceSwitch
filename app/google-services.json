@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "795594693499",
+    "firebase_url": "https://iotswitch-2c0be.firebaseio.com",
+    "project_id": "iotswitch-2c0be",
+    "storage_bucket": "iotswitch-2c0be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795594693499:android:983a1b5bcf4e6d0505fbde",
+        "android_client_info": {
+          "package_name": "com.kushcabbage.iotserviceswitch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795594693499-2qq7peser15or0rfb1iqf2hqdhrrtqa9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBww8B_fCkrgEXMpiK4UaT55EkwWxfiuk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795594693499-2qq7peser15or0rfb1iqf2hqdhrrtqa9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
